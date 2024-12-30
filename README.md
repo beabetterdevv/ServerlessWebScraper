@@ -1,6 +1,4 @@
 # Serverless Web Scraper Built on AWS
-
-
 This repository is for my course, https://courses.beabetterdev.com/courses/web-scraping-bot
 
 ## Requirements
@@ -24,13 +22,15 @@ Discord account -> https://discord.com/
 
 ### Activating Virtual Environment
 `source .venv/bin/activate (mac)`
+
 `.\.venv\Scripts\activate (windows)`
 
 ### Bootstrapping CDK project (one-time only)
 `cdk bootstrap`
 
 ### Setting Environment Variables
-Remember: you must re-run these commands each time you re-load your code editor. Also, don't forget to substitute out 
+Remember: you must re-run these commands each time you re-load your code editor. 
+
 Mac:
 
 `export DISCORD_WEBHOOK_URL="YOUR DISCORD URL HERE!"`
@@ -38,7 +38,16 @@ Mac:
 `export DISCORD_WEBHOOK_URL_ARN="YOUR PARAMETER STORE ARN HERE!"`
 
 Windows:
+
 `$env:DISCORD_WEBHOOK_URL="YOUR DISCORD URL HERE!"`
 
 `$env:DISCORD_WEBHOOK_URL_ARN="YOUR PARAMETER STORE ARN HERE!"`
 
+### Installing Lambda dependencies locally
+`pip install -r lambda/requirements.txt -t lambda/`
+
+### Deploying CDK Project
+`cdk deploy`
+
+### Destroying CDK Project (clean up)
+`cdk destroy`
