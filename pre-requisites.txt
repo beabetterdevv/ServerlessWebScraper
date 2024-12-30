@@ -1,0 +1,9 @@
+Requirements
+--------
+python 3.10+ -> https://www.python.org/downloads/
+pip -> https://pip.pypa.io/en/stable/installation/
+npm/nvm -> https://nodejs.org/en/download/package-manager
+cdk -> npm install -g aws-cdk -> https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html
+aws cli -> https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+Docker Desktop -> https://www.docker.com/get-started/
+Discord account -> https://discord.com/
