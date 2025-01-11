@@ -3,7 +3,20 @@ This repository is for my course, https://courses.beabetterdev.com/courses/web-s
 
 ## Module 1 
 
+### Lesson 1 - Welcome
+
+Private Course Discord - https://discord.gg/F6xKnBe8kX
+
+Add Me on LinkedIn ! - https://www.linkedin.com/in/daniel-galati-0aa4827a/
+
+Be a Better Dev YouTube Channel - https://www.youtube.com/@BeABetterDev
+
+
+#### Resources 
+
 ### Lesson 2 - Course Pre-requisites
+
+#### Resources 
 python 3.10+ -> https://www.python.org/downloads/
 
 pip -> https://pip.pypa.io/en/stable/installation/
@@ -24,7 +37,9 @@ Discord account -> https://discord.com/
 
 #### Resources
 Discord Webhook Documentation - https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
+
 Discord Homepage - https://discord.com
+
 Discord Webhook URL Tester - https://disforge.com/tool/webhook-tester
 
 ### Lesson 2 - CDK Project Setup & Structure
@@ -118,6 +133,7 @@ Discord Webhooks & Embeds Documentation - https://discord.com/safety/using-webho
 #### Resources
 
 DyamoDB Resource Interface - https://boto3.amazonaws.com/v1/documentation/api/1.35.8/reference/services/dynamodb/table/index.html
+
 DynamoDB Client Interface (Low Level) - https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/dynamodb.html
 
 DynamoDB PutItem API - https://boto3.amazonaws.com/v1/documentation/api/1.35.8/reference/services/dynamodb/table/put_item.html
@@ -126,3 +142,10 @@ DynamoDB PutItem API - https://boto3.amazonaws.com/v1/documentation/api/1.35.8/r
 
 #### Resources
 DynamoDB Query API - https://boto3.amazonaws.com/v1/documentation/api/1.35.9/reference/services/dynamodb/table/query.html
+
+## Module 9
+
+### Lesson 3 - Tips to Optimize Cost and Consistency
+
+#### Resources
+AWS Cost Calculator - https://calculator.aws/#/addService
